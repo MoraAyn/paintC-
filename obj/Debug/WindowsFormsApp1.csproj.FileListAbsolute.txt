@@ -1,0 +1,11 @@
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IVAN\C#_Projects\C#_Apps\PaintC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
